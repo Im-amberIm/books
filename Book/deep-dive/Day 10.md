@@ -1,4 +1,4 @@
-#javascript
+#book #deepdive #javascript
 
 # 14장 전역 변수의 문제점
 

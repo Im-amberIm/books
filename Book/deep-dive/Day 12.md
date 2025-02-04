@@ -1,4 +1,4 @@
-#javascript
+#book #deepdive #javascript
 
 # 생성자 함수에 의한 객체 생성
 

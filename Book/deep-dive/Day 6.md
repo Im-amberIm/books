@@ -1,4 +1,4 @@
-#javascript
+#book #deepdive #javascript
 
 # 10장 객체 리터럴
 

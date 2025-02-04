@@ -1,4 +1,4 @@
-#javascript
+#book #deepdive #javascript
 
 # 9장. 타입 변환과 단축 평가
 

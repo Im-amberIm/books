@@ -1,5 +1,4 @@
-#javascript
-
+#book #deepdive #javascript
 # 11장 원시 값과 객체의 비교
 
 ## 원시값

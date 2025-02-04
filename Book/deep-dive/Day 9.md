@@ -1,4 +1,4 @@
-#javascript
+#book #deepdive #javascript
 
 # 12.7장 다양한 함수의 형태
 
