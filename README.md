@@ -17,3 +17,4 @@
 - [16장. 프로퍼티 어트리뷰트 (property attribute)](/Book/deep-dive/16.md)
 - [17장. 생성자 함수에 의한 객체 생성](/Book/deep-dive/17.md)
 - [18장. 함수와 일급 객체](/Book/deep-dive/18.md)
+- [19장. 프로토타입](/Book/deep-dive/19.md)
