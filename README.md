@@ -18,3 +18,6 @@
 - [17장. 생성자 함수에 의한 객체 생성](/Book/deep-dive/17.md)
 - [18장. 함수와 일급 객체](/Book/deep-dive/18.md)
 - [19장. 프로토타입](/Book/deep-dive/19.md)
+- [20장. strict mode](/Book/deep-dive/20.md)
+- [21장. 빌트인 객체](/Book/deep-dive/21.md)
+- [22장. this](/Book/deep-dive/22.md)
