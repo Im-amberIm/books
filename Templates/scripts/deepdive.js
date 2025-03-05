@@ -7,7 +7,9 @@ async function createDeepDiveTemplate(tp) {
   const safeTitle = title.replace(/"/g, '\\"'); // 따옴표 이스케이프 처리
 
   // frontmatter 생성
-  let frontmatter = `---
+  let frontmatter = `
+
+---
 tags: [book, deepdive, javascript]
 chapter: "${chapter}"
 title: "${safeTitle}"
@@ -16,7 +18,9 @@ modified: ${tp.file.last_modified_date("YYYY-MM-DD")}
 book: "모던 자바스크립트 Deep Dive"
 author: "이웅모"
 imageNameKey: "book_deepdive"
----`;
+---
+
+`;
 
   // 본문 생성
   let content = `
